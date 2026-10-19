@@ -6,7 +6,7 @@
    ============================================================ */
 const COMMENTS_CONFIG = {
   SUPABASE_URL: 'https://wlhtdtrnhxsydgefoiob.supabase.co',   // مثال: 'https://abcdxyz.supabase.co'   <-- حط الرابط بتاعك هنا
-  SUPABASE_ANON_KEY: 'ssb_secret_fHytrM8pgADgT6K2rdSWiA_ADVFgIzj'   // الـ publishable key (آمن إنه يبان في الموقع)
+  SUPABASE_ANON_KEY: 'sb_publishable_hdiW4rvi-Djdkyq1qxG2wA_VZ8T4h0r'   // الـ publishable key (آمن إنه يبان في الموقع)
 };
 /* لو الـ URL فاضي: التعليقات بتتخزن في متصفح الزائر نفسه بس (وضع تجريبي). */
 
