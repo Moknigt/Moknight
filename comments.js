@@ -5,8 +5,8 @@
    الخطوات في ملف SETUP-AR.md — المطلوب بس تحط الـ URL هنا:
    ============================================================ */
 const COMMENTS_CONFIG = {
-  SUPABASE_URL: 'https://qiqyttbhctxhyhrlghdr.supabase.co',   // مثال: 'https://abcdxyz.supabase.co'   <-- حط الرابط بتاعك هنا
-  SUPABASE_ANON_KEY: 'sb_publishable_MJLyNGdLVT7C_vgOYownWg_MZinUNS5'   // الـ publishable key (آمن إنه يبان في الموقع)
+  SUPABASE_URL: 'https://wlhtdtrnhxsydgefoiob.supabase.co',   // مثال: 'https://abcdxyz.supabase.co'   <-- حط الرابط بتاعك هنا
+  SUPABASE_ANON_KEY: 'ssb_secret_fHytrM8pgADgT6K2rdSWiA_ADVFgIzj'   // الـ publishable key (آمن إنه يبان في الموقع)
 };
 /* لو الـ URL فاضي: التعليقات بتتخزن في متصفح الزائر نفسه بس (وضع تجريبي). */
 
